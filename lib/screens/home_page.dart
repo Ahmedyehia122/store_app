@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
         actions: [
           IconButton(
               onPressed: () {},
-              icon: Icon(
+              icon: const Icon(
                 FontAwesomeIcons.cartPlus,
                 color: Colors.black,
               ))
@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
         backgroundColor: Colors.white,
         elevation: 0,
         centerTitle: true,
-        title: Text(
+        title: const Text(
           'New Trend',
           style: TextStyle(
             color: Colors.black,
@@ -39,7 +39,7 @@ class HomePage extends StatelessWidget {
               return GridView.builder(
                   itemCount: products.length,
                   clipBehavior: Clip.none,
-                  gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                  gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                     crossAxisCount: 2,
                     childAspectRatio: 1.5,
                     crossAxisSpacing: 10,
@@ -49,7 +49,7 @@ class HomePage extends StatelessWidget {
                     return CustomCard(product: products[index]);
                   });
             } else {
-              return Center(
+              return const Center(
                 child: CircularProgressIndicator(),
               );
             }
