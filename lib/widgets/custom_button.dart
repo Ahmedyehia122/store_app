@@ -18,7 +18,7 @@ class CustomButon extends StatelessWidget {
         child: Center(
           child: Text(
             text,
-            //style
+            //style comment
             style: const TextStyle(
               color: Colors.white,
             ),
