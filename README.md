@@ -1,8 +1,11 @@
  # 😊 Store App
+ 
+ <br/>
 
  
 
  ## 🚀 Getting Started
+ <br/>
 
  
    ## 📸 Screen Record
@@ -10,6 +13,8 @@
  
 <video src="https://github.com/Ahmedyehia122/-Sushi-Restaurant-App/assets/142153775/02d21beb-0f62-4049-9928-c13164e62c67
 "></video>
+
+<br/>
 
  ## 🏖️ Screenshots 
  
@@ -25,6 +30,8 @@
    <img src ="https://github.com/Ahmedyehia122/-Sushi-Restaurant-App/assets/142153775/5ced0ea3-09e1-4687-9986-340b63063026" width="200" >
    
  </div>
+ 
+ <br/>
 
  ## 💡 Dependencies
 
@@ -37,8 +44,30 @@ This package contains a set of high-level functions and classes that make it eas
 
    ####    modal_progress_hud_nsn: ^0.4.0
    [modal_progress_hud_nsn](https://pub.dev/packages/modal_progress_hud_nsn) -  A simple widget wrapper to enable modal progress HUD (a modal progress indicator, HUD = Heads Up Display)
+   
+   <br/>
+   
+ ## 🖊️ Contributing
+
+- Contributions are welcome 💜
+- If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+  <br/>
+
+ ## 🤝Contact With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyehia122/) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://www.ahmedyehia.122a@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033167761298)
+
+<br/>
+
+## 💖 Support
+
+- If you find this tutorial useful or learned something from this code, consider showing some ❤️ by starring this repo.
 
 
+<br/>
   
 # 🌸🌸  Thank You For Your Time 🌸🌸
 
