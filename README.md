@@ -1,4 +1,5 @@
  # 😊 Store App
+ "Store App" An all-in-one platform for purchasing accessories, electrical tools, and clothing
  
  <br/>
 
