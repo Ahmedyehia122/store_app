@@ -6,6 +6,11 @@
  
 
  ## 🚀 Getting Started
+
+  <img src ="https://github.com/Ahmedyehia122/Talkative/assets/142153775/43f8354f-ff63-47b1-ac18-fbfa926f1c4d"   >
+
+   <br/>
+
  
 
  
